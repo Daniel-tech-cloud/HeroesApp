@@ -5,9 +5,9 @@ export const LoginPage = () => {
   
     const onLogin = () =>{
         navigate('/', {
-
           replace: true
         }); 
+        
     }
 
     return (
